@@ -1,0 +1,28 @@
+{
+  "name": "normaliser",
+  "description": "normalise an array to an object with byId and items",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UXtemple/normaliser.git"
+  },
+  "keywords": [
+    "normalise",
+    "array",
+    "object",
+    "byId",
+    "items"
+  ],
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UXtemple/normaliser/issues"
+  },
+  "homepage": "https://github.com/UXtemple/normaliser#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
